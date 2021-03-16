@@ -58,6 +58,6 @@ const mvp = (function(){
       hasnt()
     }
   }
-  return {Model, View, Presentor}
+  return {Model, View, Presenter}
 })()
    
